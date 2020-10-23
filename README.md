@@ -1,4 +1,3 @@
-# Data Analysis with R
 
 ## Exploration 1
 
