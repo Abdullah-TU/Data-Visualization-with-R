@@ -1,7 +1,6 @@
 
 ## Exploration 1
-
-
+A correlation between Corruption and Development: Corruption Perceptions Index , 2018 (Rating from 1 To 100 where 100 is the least corrupt nation) Human Developement Index, 2018 
 
 ## Findings : 
 Comparing the corruption index with the UN's Human Development Index (a measure combining health, wealth and education), demonstrates an interesting connection. When the 
