@@ -5,6 +5,7 @@ A correlation between Corruption and Development: Corruption Perceptions Index ,
 
 ## Findings : 
 Comparing the corruption index with the UN's Human Development Index (a measure combining health, wealth and education), demonstrates an interesting connection. When the 
+corruption index is between approximately 20.0 and 40.0 there appears to be little relationship with the human development index, but as it rises beyond 4.0 a stronger connection 
 
 
 
